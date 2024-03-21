@@ -1,0 +1,5 @@
+- Khởi tạo project: npm init
+- Cài đặt thư viện express. npm i express
+- Cài thư viện nodemon: npm i nodemon
+-- Cài extension Chrome: JSON Viewer
+-- Cài phần mềm POSMAN: https://www.postman.com/downloads/
